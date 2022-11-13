@@ -105,4 +105,5 @@ openssl ca \
 
 Issued TLS server cerificate to the nginx webserver at https://securityhw.cmpe272.org
 
-<img width="872" alt="16_Website" src="https://user-images.githubusercontent.com/85700971/201513791-8e866422-ed8f-4556-9beb-36be5352e005.png">
+<img width="703" alt="image" src="https://user-images.githubusercontent.com/85700971/201546275-06695c41-ce25-4044-84f8-8b471ded5240.png">
+
