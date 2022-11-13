@@ -1,4 +1,4 @@
-# Security-HW7
+# CMPE 272 HW-7 Security
 Team Name: Spartan Devs <br/><br/>
 Team Members: <br/>
 Bhavya Hegde - 016656029 <br/>
