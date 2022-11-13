@@ -11,7 +11,7 @@ Use the TLS certificate to install a web server, e.g. tomcat, https://tomcat.apa
 
 ## Implementation
 
-We assume an organization named “SJSU CMPE272”, controlling the domain “securityhw.cmpe272.org”. The organization runs a small PKI to secure its intranet traffic
+We assume an organization named “SJSU CMPE272”, controlling the domain “securityhw.cmpe272.org”. The organization runs a small PKI to secure its intranet traffic. We have hosted securityhw.cmpe272.org on nginx web server and installed self signed TLS certificate
 
 With the modified https://pki-tutorial.readthedocs.io/en/latest/simple/root-ca.conf.html and https://pki-tutorial.readthedocs.io/en/latest/simple/signing-ca.conf.html files we implement this using below steps
 
