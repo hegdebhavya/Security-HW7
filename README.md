@@ -114,4 +114,5 @@ Issued TLS server cerificate to the nginx webserver at https://securityhw.cmpe27
 
 ## References
 https://pki-tutorial.readthedocs.io/en/latest/simple/ 
+https://phoenixnap.com/kb/install-ssl-certificate-nginx
 
